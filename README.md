@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**alarconvv/alarconvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Viviana Romero Alarcón
 
-Here are some ideas to get you started:
+I am a computational biologist at the University of Massachusetts, Boston. I am interested in software development, statistical modeling, and integrating new artificial intelligence technologies into ecology, evolutionary, and conservation fields. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- 🚀 [My Personal Website](https://alarconvv.github.io)
+- 📚 [Cool Project Repo](https://github.com/alarconvv/guane)
+
+## 📫 How to reach me
+- Email: vivianaromeroalarcon@umb.edu
+- Twitter: @alarconvv
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alarconvv&show_icons=true)
