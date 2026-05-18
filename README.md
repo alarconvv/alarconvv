@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 I'm Viviana Romero Alarcón
+# 👋 I'm Viviana Romero Alarcon
 
 I am a computational biologist at the University of Massachusetts, Boston. I am interested in software development, statistical modeling, and integrating new artificial intelligence technologies into ecology, evolutionary, and conservation fields. 
 
