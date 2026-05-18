@@ -6,7 +6,7 @@ I am a computational biologist at the University of Massachusetts, Boston. I am 
 
 ## 🔭 Projects
 - 🚀 [My Personal Website](https://alarconvv.github.io)
-- 📚 [Cool Project Repo](https://github.com/alarconvv/guane) # in construcction
+- 📚 [Cool Project Repo](https://github.com/alarconvv/Guane) # in construcction
 
 ## 📫 How to reach me
 - Email: vivianaromeroalarcon@umb.edu
