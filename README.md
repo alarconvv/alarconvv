@@ -7,7 +7,7 @@ I am a computational biologist at the University of Massachusetts, Boston. I am 
 ## 🔭 Projects
 - 🚀 [My Personal Website](https://alarconvv.github.io)
 - 📚 [Cool Project Repo](https://github.com/alarconvv/Guane) # in construcction
-- 📚 [Cool Project Borad](https://github.com/users/alarconvv/projects/3)
+- 📚 [Cool Project Timeline and work board](https://github.com/users/alarconvv/projects/3)
   
 
 ## 📫 How to reach me
